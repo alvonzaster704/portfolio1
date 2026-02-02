@@ -1,0 +1,24 @@
+{
+  "series": [
+    {
+      "id": "food",
+      "name": "民以食為天｜味蕾與視覺的饗宴",
+      "desc": "用光線與材質把食物拍出可口的重量感。",
+      "cover": "assets/images/food/cover.jpg",
+      "images": [
+        { "src": "assets/images/food/01.jpg", "caption": "鍋物｜熱氣與質地" },
+        { "src": "assets/images/food/02.jpg", "caption": "甜點｜粉糖與醬" }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "空間也能成為展示品",
+      "desc": "把空間當成展品：秩序、比例與物件的存在感。",
+      "cover": "assets/images/space/cover.jpg",
+      "images": [
+        { "src": "assets/images/space/01.jpg", "caption": "遊具｜城市的舞台" },
+        { "src": "assets/images/space/02.jpg", "caption": "老屋｜邊界與時間" }
+      ]
+    }
+  ]
+}
