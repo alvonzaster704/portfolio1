@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>系列｜阿國作品集</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="container header">
+    <div>
+      <h1 class="title" id="seriesTitle">系列</h1>
+      <p class="subtitle" id="seriesDesc"></p>
+    </div>
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="series.html?id=food" id="navFood">食物</a>
+      <a href="series.html?id=space" id="navSpace">空間</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="gallery" id="gallery">
+      <!-- JS 會把照片格子塞進來 -->
+    </section>
+  </main>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox" aria-hidden="true">
+    <button class="lightbox-close" id="lightboxClose" aria-label="close">✕</button>
+    <img class="lightbox-img" id="lightboxImg" alt="" />
+    <div class="lightbox-caption" id="lightboxCaption"></div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
