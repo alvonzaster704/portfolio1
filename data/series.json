@@ -19,15 +19,15 @@
         { "src": "assets/images/space/01.jpg", "caption": "遊具｜城市的舞台" },
         { "src": "assets/images/space/02.jpg", "caption": "老屋｜邊界與時間" }
       ]
-    }
+    },
     {
         "id": "train",
         "name": "列車｜行進中的城市片段",
         "desc": "在移動中捕捉城市與人的關係。",
         "cover": "assets/images/train/cover.jpg",
         "images": [
-          { "src": "assets/images/train/01.jpg", "caption": "車窗｜光與影的交會" },
-          { "src": "assets/images/train/02.jpg", "caption": "站台｜等待與離別" }
+          { "src": "assets/images/train/01.jpg", "caption": "追越｜紅與白的交會" },
+          { "src": "assets/images/train/02.jpg", "caption": "月台｜等待與離別" }
         ]
     }
   ]
